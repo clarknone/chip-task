@@ -12,9 +12,6 @@ npm start
 ```
 Enter Your Team Name:  
 ```
-### Press the enter key
+### A CHIP-0007 json will be displayed on your console
 
-### A CHIP-0007 json will be generated on the console
-### A Bevel.output.csv will also be generated.
-
-### CSV files from the teams is located in the csv folder
+### A CSV file with your team name will be generated in the project folder.
